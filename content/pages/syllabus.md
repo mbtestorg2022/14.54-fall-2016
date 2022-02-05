@@ -29,11 +29,48 @@ Krugman, Paul, Maurice Obstfeld, and Marc Melitz. _International Economics: Theo
 Requirements
 ------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| In-class mid-term exam | 35% |
-| Final exam | 50% |
-| Problem sets | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class mid-term exam
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 There will be one in-class midterm exam (35% of the course grade), and one final exam (50% of the course grade). The exams will cover all the lecture material, all of the assigned textbook reading, and some of the additional readings. The specific readings that will be required for each exam will be announced well ahead of each exam date. There will be no make-up exams. All exams will be closed-book: You may not use notes, electronic devices, books, or communicate to other classmates. Six problem sets will be distributed during the semester. The problem sets will be collected and evaluated, and answers will be subsequently posted on the class website. You are encouraged to discuss these problems with your classmates; however, you must write up your own answers. Problem set evaluation will account for the remaining 15% of your course grade.
 
