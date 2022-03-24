@@ -40,7 +40,7 @@ Introduction
 
 \[Pop\] "What Do Undergrads Need to Know about Trade?" p. 117.
 
-Deardorff, Alan, and Robert Stern. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What the Public Should Know About Globalization and the World Trade Organization." (PDF)](http://fordschool.umich.edu/rsie/workingpapers/Papers451-475/r460.pdf) Research Seminar in International Economics, Discussion Paper No. 460, July 2000. (Part I & II)
+Deardorff, Alan, and Robert Stern. ["What the Public Should Know About Globalization and the World Trade Organization." (PDF)](http://fordschool.umich.edu/rsie/workingpapers/Papers451-475/r460.pdf) Research Seminar in International Economics, Discussion Paper No. 460, July 2000. (Part I & II)
 
 Irwin, Douglas. "[The United States in a New Global Economy? A Century's Perspective](http://www.jstor.org/stable/2118093)." _The American Economic Review_ 86, no. 2 (1996): 41–46.
 
@@ -200,7 +200,7 @@ Trade Agreements
 
 \[Fire\] Chapters 5–6.
 
-Deardorff, Alan, and Robert Stern. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What the Public Should Know About Globalization and the World Trade Organization." (PDF)](http://fordschool.umich.edu/rsie/workingpapers/Papers451-475/r460.pdf) Research Seminar in International Economics, Discussion Paper No. 460, July 2000. (Part III)
+Deardorff, Alan, and Robert Stern. ["What the Public Should Know About Globalization and the World Trade Organization." (PDF)](http://fordschool.umich.edu/rsie/workingpapers/Papers451-475/r460.pdf) Research Seminar in International Economics, Discussion Paper No. 460, July 2000. (Part III)
 
 \[Pop\] "The Uncomfortable Truth About NAFTA."
 
