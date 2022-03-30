@@ -4,6 +4,7 @@ description: 'This resource contains information regarding international trade l
   slides: Increasing returns to scale.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-54-international-trade-fall-2016/446cf63677ffc3728fa68ff2d7fe0d61_MIT14_54F16_Lecture_17.pdf
 file_type: application/pdf
+parent_uid: 0a3cf0ed-6939-75d3-35fc-a7aad8469f3b
 resourcetype: Document
 title: '14.54 F16 Lecture Slides: Increasing Returns to Scale'
 uid: 446cf636-77ff-c372-8fa6-8ff2d7fe0d61
